@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539188097 source:/home/111701019/CS2130/Extra/LL insert n/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

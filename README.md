@@ -1,2 +1,3 @@
-# Data-Structure-Code
-Have done this in 3rd semester
+# Data Structure Implementation 
+# @author: Talha Yaseen
+This repo contains implementation of Data Structure in C Language
